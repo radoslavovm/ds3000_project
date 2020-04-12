@@ -12,4 +12,6 @@ If you wish to "upload" the stuffs you have worked on, right click on the folder
 
 There are three steps. The first step selects files in the local directory, the "." will select all files under the directory. The second step commit the selected files to the local repository (so it is recorded locally, but others won't be able to see it online). The third step push the changes to the online repo, so others can see. <br />
 
+If someone else made changes to the stuffs and pushed their changes, you can use **git pull** to pull the changes to your local machine, so that you can continue working on it. <br />
+
 **If you are using Windows, I've never used Windows with git, I will add some info for windows later.**
